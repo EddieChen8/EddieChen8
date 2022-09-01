@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Eddie Chen</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Full-stack developer</h3>
 
 - 🔭 I’m currently working on **bringbackAustralia**
 
 - 🌱 I’m currently learning **Node.js and C#**
 
-- 💬 Ask me about **react.js**
-
 - 📫 How to reach me **eddiec8899@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/eddie-chen-393673234/](https://www.linkedin.com/in/eddie-chen-393673234/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
