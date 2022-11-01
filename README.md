@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/EddieChen8](https://github.com/EddieChen8)
 
-- 💬 Ask me about **React.js**
-
 - 📫 How to reach me **eddiec8899@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/eddie-chen-393673234/](https://www.linkedin.com/in/eddie-chen-393673234/)
